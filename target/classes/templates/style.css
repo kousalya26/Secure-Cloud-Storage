@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f5f5;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #555;
+}
+
+.navbar-inverse {
+    background-color: #333;
+    border-color: #333;
+    color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color:
